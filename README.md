@@ -7,9 +7,10 @@
 Μέσω της εφαρμογής ο χρήστης έχει τις παρακάτω δυνατότητες :
   - Δημιουργία 3D απεικόνισης/προσομοίωσης του κτήματος.
   - Διαίρεση του κτήματος σε ζώνες ( ανά γραμμές,στήλες ή γκρουπ δέντρων { 1,2,4 } )
- [![first.png](https://i.postimg.cc/KzVykVPG/first.png)](https://postimg.cc/phDS3sc4)
+ [![photo-2.png](https://i.postimg.cc/FRmx8JLk/photo-2.png)](https://postimg.cc/WDWrJzSs)
   - Διαχείριση της κάθε ζώνης ανεξάρτητα  
-  ![](https://www.dropbox.com/s/1c88syx76hqf879/photo_1.png?dl=1)
+   [![first.png](https://i.postimg.cc/KzVykVPG/first.png)](https://postimg.cc/phDS3sc4)
+
   - Επιλογή μεταξύ Manual και Automatic ποτίσματος σε κάθε ζώνη.
   - Προσθήκη αισθητήρων σε κάθε ζώνη για τον καλύτερο έλεγχο της κατάστασης της.
   - Ενημέρωση του χρήστη για την κατάσταση της καλλιέργειας όπως :
